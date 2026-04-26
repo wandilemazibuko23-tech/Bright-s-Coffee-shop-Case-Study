@@ -1,68 +1,61 @@
-# ☕ Coffee Shop Sales & Customer Behaviour Analysis
+# ☕ Bright’s Coffee Shop – Business Analysis Case Study
 
-## 🎯 Project Overview
-This project analyzes coffee shop sales data to identify customer behaviour patterns, sales trends, and product performance. The goal is to extract actionable insights that can help improve business decisions such as pricing, product offerings, and peak-hour staffing.
+## 📌 Project Overview
 
----
+This project analyzes sales and customer behavior at Bright’s Coffee Shop to identify opportunities for revenue growth and operational efficiency.
 
-## 🛠 Tools Used
-- SQL (Data cleaning, transformation, analysis)
-- Excel / BigQuery (if applicable)
+## 🎯 Business Problem
 
----
+The business lacks clear insight into:
 
-## 📁 Dataset Description
-The dataset contains transactional coffee shop data including:
-- Order ID
-- Product name
-- Quantity sold
-- Sales amount
-- Transaction date and time
-- Location (if available)
+* Customer purchasing patterns
+* Peak sales periods
+* Product performance
 
----
+This limits decision-making and revenue optimization.
 
-## 🧹 Data Cleaning Process
-Before analysis, the dataset was cleaned by:
-- Removing duplicate transactions  
-- Handling missing or null values  
-- Standardising date and time formats  
-- Ensuring consistency in product names  
-- Filtering invalid or zero-value transactions  
+## 📊 Data
 
----
+* Transaction data
+* Customer purchase records
+* Product-level sales
 
-## 📊 Analysis Performed
-The following business questions were explored:
-- What are the top-selling coffee products?  
-- What are peak sales hours and days?  
-- Which products generate the highest revenue?  
-- How do customer purchasing patterns change over time?  
-- Are there seasonal or time-based trends in sales?  
+## 🛠️ Tools Used
 
----
+* SQL (data cleaning & analysis)
+* Excel / BigQuery
+* Data modeling
 
-## 📈 Key Insights
-- Peak sales occur during morning hours (7AM–10AM), indicating strong breakfast demand  
-- A small number of products contribute most of the revenue (Pareto principle)  
-- Weekends show different purchasing patterns compared to weekdays  
-- Certain products consistently outperform others in both volume and revenue  
+## 🔍 Key Analysis
 
----
+* Customer segmentation
+* Revenue trends over time
+* Best-selling products
+* Peak vs low sales periods
 
-## 💡 Business Recommendations
-- Increase staffing during peak morning hours  
-- Promote high-margin products during off-peak times  
-- Bundle low-performing items with bestsellers  
-- Use sales trends to improve inventory planning  
+## 💡 Key Insights
 
----
+* A small group of customers drives majority of revenue
+* Morning sales dominate daily performance
+* A few products contribute most of the profit
 
-## 🚀 Conclusion
-This project demonstrates how raw transactional data can be transformed into meaningful business insights using SQL. It highlights my ability to clean, analyze, and interpret data for real business decision-making.
+## 📈 Business Recommendations
 
----
+* Introduce a loyalty program for repeat customers
+* Optimize staffing during peak hours
+* Focus marketing on high-margin products
 
-## 📫 Author
-Buhlebamangwe Mazibuko  
-GitHub: https://github.com/wandilemazibuko23-tech
+## 📊 Visuals
+
+(Add workflow diagram, dashboard, or charts here)
+
+## 📁 Repository Structure
+
+* SQL scripts
+* Dataset
+* Visual diagrams
+* Final report
+
+## ✅ Outcome
+
+This project demonstrates how data can be used to improve business decisions and increase profitability.
